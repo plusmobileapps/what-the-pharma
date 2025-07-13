@@ -7,6 +7,9 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import org.jetbrains.compose.ui.tooling.preview.Preview
+import com.plusmobileapps.wtpharma.ui.StartScreen
+import com.plusmobileapps.wtpharma.ui.GameScreen
+import com.plusmobileapps.wtpharma.ui.ResultsScreen
 
 @Composable
 @Preview
